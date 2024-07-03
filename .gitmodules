@@ -7,12 +7,6 @@
 [submodule "project_service"]
 	path = project_service
 	url = https://github.com/Ikhsanov-Nail-95/project_service.git
-[submodule "account_service"]
-	path = account_service
-	url = https://github.com/Ikhsanov-Nail-95/account_service.git
-[submodule "payment_service"]
-	path = payment_service
-	url = https://github.com/Ikhsanov-Nail-95/payment_service.git
 [submodule "notification_service"]
 	path = notification_service
 	url = https://github.com/Ikhsanov-Nail-95/notification_service.git
@@ -22,6 +16,12 @@
 [submodule "achievement_service"]
 	path = achievement_service
 	url = https://github.com/Ikhsanov-Nail-95/achievement_service.git
+[submodule "account_service"]
+	path = account_service
+	url = https://github.com/Ikhsanov-Nail-95/account_service.git
+[submodule "payment_service"]
+	path = payment_service
+	url = https://github.com/Ikhsanov-Nail-95/payment_service.git
 [submodule "infra"]
 	path = infra
 	url = https://github.com/Ikhsanov-Nail-95/infra.git
