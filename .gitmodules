@@ -24,4 +24,4 @@
 	url = https://github.com/Ikhsanov-Nail-95/notification_service.git
 [submodule "infra"]
 	path = infra
-	url = https://github.com/Ikhsanov-Nail-95/project_service.git
+	url = https://github.com/Ikhsanov-Nail-95/infra.git
